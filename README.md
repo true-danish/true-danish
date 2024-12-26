@@ -1,6 +1,6 @@
-# Hi, I'm Md Danish! 👋
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h3 align="center">Frontend Developer | React, Redux, Next.js Enthusiast 🚀</h3>
 
-### 🚀 Frontend Developer | Passionate about building beautiful and functional user interfaces
 
 - 🔭 I’m currently working on **[Your Current Project/Skill]**
 - 🌱 I’m learning **[Latest Frontend Tools or Frameworks]**
