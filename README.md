@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Md Danish</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=true-danish&label=Profile%20views&color=0e75b6&style=flat" alt="true-danish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=true-danish" alt="true-danish" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/believer_danish" target="blank"><img src="https://img.shields.io/twitter/follow/believer_danish?logo=twitter&style=for-the-badge" alt="believer_danish" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://true-danish.github.io/danishPortfolioV2/](https://true-danish.github.io/danishPortfolioV2/)
 
 - 📫 How to reach me **sendmailtodanish@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18OxBOEhcgBhJ0Y5tuMnXsE3rrHQqds7S/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18OxBOEhcgBhJ0Y5tuMnXsE3rrHQqds7S/view?usp=drive_link](https://drive.google.com/file/d/18OxBOEhcgBhJ0Y5tuMnXsE3rrHQqds7S/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/believer_danish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="believer_danish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/danish-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danish-profile" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/true-danish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="true-danish" height="30" width="40" /></a>
+<a href="https://instagram.com/true_danish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="true_danish" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/danish_verified" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danish_verified" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
