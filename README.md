@@ -18,7 +18,7 @@
 <a href="https://twitter.com/believer_danish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="believer_danish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/danish-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danish-profile" height="30" width="40" /></a>
 <a href="https://instagram.com/true_danish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="true_danish" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/danish_verified" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danish_verified" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/danish-verified" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danish_verified" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
