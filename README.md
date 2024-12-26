@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **[Your Current Project/Skill]**
 - 🌱 I’m learning **[Latest Frontend Tools or Frameworks]**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, or UI/UX design**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [your.email@example.com](mailto:sendmailtodanish@gmail.com)
 - ⚡ Fun fact: I love [your hobby or fun fact].
 
 ---
@@ -19,9 +19,9 @@
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=true-danish&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=true-danish&layout=compact&theme=radical)
 
 ---
 
@@ -32,6 +32,6 @@
 ---
 
 ### 🔗 Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [LinkedIn](https://linkedin.com/in/danish-profile)
 - [Twitter](https://twitter.com/yourusername)
 - [Personal Website](https://your-website-link.com)
