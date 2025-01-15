@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sendmailtodanish@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18OxBOEhcgBhJ0Y5tuMnXsE3rrHQqds7S/view?usp=drive_link](https://drive.google.com/file/d/18OxBOEhcgBhJ0Y5tuMnXsE3rrHQqds7S/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18OxBOEhcgBhJ0Y5tuMnXsE3rrHQqds7S/view?usp=drive_link](https://drive.google.com/file/d/1YXMXlAk7iTc8vDfvI1qdpzDVbu-CNo4b/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
